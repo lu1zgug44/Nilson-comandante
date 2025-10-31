@@ -1,2 +1,2 @@
-drop database if exists Comanda;
-create database Comanda;
+drop database if exists Fast_Food;
+create database Fast_Food;
